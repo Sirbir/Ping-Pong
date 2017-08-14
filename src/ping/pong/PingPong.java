@@ -1,15 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 
 package ping.pong;
 
 // QUESTIONS 
 
-// What do I need?
 
 
 //IMPORTS
@@ -18,11 +11,6 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.awt.geom.*;
 
-
-/**
- *
- * @author Owner
- */
 
 @SuppressWarnings("serial")
 public class PingPong extends JPanel {
