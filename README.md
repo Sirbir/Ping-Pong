@@ -1,12 +1,6 @@
 # Ping-Pong
 
-## Getting Started 
-
-### Prerequisites
-
-### Installing 
-
-## Built With
+A very simple clone of the class Ping Pong game built with Java.
 
 ## Author
 * **Sylvan Wilson** - *Initial work* - [Sirbir](https://github.com/Sirbir
